@@ -130,4 +130,4 @@ This allows the app to estimate recall and generate intervals tuned to the cardâ
 
 ## License
 
-This project does not currently declare a license. If you plan to distribute or reuse it, add a license file that matches your intended usage.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
